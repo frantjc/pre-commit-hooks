@@ -1,8 +1,6 @@
 # pre-commit-hooks
 
-[Go](https://go.dev) hooks for https://pre-commit.com/
-
-## use
+[Go](https://go.dev) hooks for [pre-commit](https://pre-commit.com/).
 
 ## use
 
